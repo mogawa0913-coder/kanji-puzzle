@@ -1,0 +1,36 @@
+{
+    "kanjiGroups": {
+        "1": "一",
+        "2": "体",
+        "3": "心",
+        "4": "全",
+        "5": "人",
+        "6": "車",
+        "7": "中",
+        "8": "学",
+        "9": "重",
+        "10": "会",
+        "11": "元",
+        "12": "名"
+    },
+
+    "numberGrid": [
+        [1, 5, 0, -1, 5, 0, 6],
+        [2, 0, -1, 1, 12, -1, 7],
+        [4, -1, 10, 3, -1, 1, 0],
+        [2, 9, 0, -1, 11, 11, -1],
+        [-1, 0, -1, 4, -1, 0, 8],
+        [9, -1, 7, 0, 6, -1, 0],
+        [3, 0, 8, -1, 12, 0, 10]
+    ],
+
+    "initialKanjiGrid": [
+        [null, null, "前", null, null, "力", null],
+        [null, "格", null, null, null, null, null],
+        [null, null, null, null, null, null, "泊"],
+        [null, null, "計", null, null, null, null],
+        [null, "度", null, null, null, "化", null],
+        [null, null, null, "型", null, null, "級"],
+        [null, "理", null, null, null, "球", null]
+    ]
+}
