@@ -1,0 +1,35 @@
+{
+    "kanjiGroups": {
+        "1": "仕",
+        "2": "人",
+        "3": "大",
+        "4": "火",
+        "5": "場",
+        "6": "成",
+        "7": "合",
+        "8": "耐",
+        "9": "名",
+        "10": "事",
+        "11": "力"
+    },
+
+    "numberGrid": [
+        [1, 0, -1, 0, 8, -1, 0],
+        [-1, 2, 3, -1, 4, 10, 5],
+        [0, -1, 0, 6, 0, -1, 9],
+        [0, 1, 7, -1, 0, 0, -1],
+        [-1, 2, -1, 7, -1, 3, 4],
+        [8, -1, 3, 6, 0, -1, 11],
+        [11, 1, 10, -1, 9, 5, 0]
+    ],
+
+    "initialKanjiGrid": [
+        [null, "上", null, "忍", null, null, "現"],
+        [null, null, null, null, null, null, null],
+        ["闇", null, "集", null, "材", null, null],
+        ["闇", null, null, null, "料", "理", null],
+        [null, null, null, null, null, null, null],
+        [null, null, null, null, "功", null, null],
+        [null, null, null, null, null, null, "面"]
+    ]
+}
