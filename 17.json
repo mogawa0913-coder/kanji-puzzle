@@ -1,0 +1,35 @@
+{
+    "kanjiGroups": {
+        "1": "医",
+        "2": "国",
+        "3": "立",
+        "4": "市",
+        "5": "大",
+        "6": "務",
+        "7": "学",
+        "8": "業",
+        "9": "入",
+        "10": "会",
+        "11": "外"
+    },
+
+    "numberGrid": [
+        [9, 0, -1, 4, 11, -1, 1],
+        [-1, 5, 0, 3, -1, 8, 0],
+        [9, 10, -1, 5, 0, 6, -1],
+        [7, -1, 2, 7, -1, 11, 2],
+        [-1, 0, 3, -1, 0, -1, 0],
+        [1, 6, -1, 0, 8, 0, 4],
+        [7, 0, 10, -1, 0, -1, 0]
+    ],
+
+    "initialKanjiGrid": [
+        [null, "党", null, null, null, null, null],
+        [null, null, "連", null, null, null, "者"],
+        [null, null, null, null, "任", null, null],
+        [null, null, null, null, null, null, null],
+        [null, "公", null, null, "事", null, "内"],
+        [null, null, null, "商", null, "都", null],
+        [null, "員", null, null, "主", null, "場"]
+    ]
+}
