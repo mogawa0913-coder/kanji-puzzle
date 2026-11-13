@@ -1,0 +1,35 @@
+{
+    "kanjiGroups": {
+        "1": "部",
+        "2": "人",
+        "3": "数",
+        "4": "下",
+        "5": "分",
+        "6": "電",
+        "7": "国",
+        "8": "中",
+        "9": "地",
+        "10": "仕",
+        "11": "古"
+    },
+
+    "numberGrid": [
+        [8, 1, 6, 0, -1, 2, 0],
+        [7, 3, -1, 10, 0, -1, 6],
+        [2, -1, 2, 0, -1, 11, 0],
+        [-1, 7, 3, -1, 4, 11, -1],
+        [5, 0, -1, 10, -1, 0, 7],
+        [0, -1, 1, 5, 0, -1, 0],
+        [9, 4, 0, -1, 8, 0, 9]
+    ],
+
+    "initialKanjiGrid": [
+        [null, null, null, "力", null, null, "畜"],
+        [null, null, null, null, "上", null, null],
+        [null, null, null, "事", null, null, "池"],
+        [null, null, null, null, null, null, null],
+        [null, "別", null, null, null, "米", null],
+        ["譲", null, null, null, "的", null, "有"],
+        [null, null, "室", null, null, "心", null]
+    ]
+}
