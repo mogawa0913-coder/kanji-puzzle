@@ -1,0 +1,33 @@
+{
+    "kanjiGroups": {
+        "1": "費",
+        "2": "学",
+        "3": "中",
+        "4": "戦",
+        "5": "内",
+        "6": "国",
+        "7": "人",
+        "8": "日",
+        "9": "庫"
+    },
+
+    "numberGrid": [
+        [0, -1, 3, 8, -1, 0, 9],
+        [3, 0, 6, -1, 8, 3, -1],
+        [4, -1, 0, 9, 0, -1, 0],
+        [-1, 6, 2, -1, 7, 0, 1],
+        [0, 5, -1, 0, 2, -1, 0],
+        [0, -1, 8, -1, 0, 5, -1],
+        [7, 0, 8, 0, -1, 4, 1]
+    ],
+
+    "initialKanjiGrid": [
+        ["空", null, null, null, null, "車", null],
+        [null, "立", null, null, null, null, null],
+        [null, null, "文", null, "本", null, "消"],
+        [null, null, null, null, null, "件", null],
+        ["社", null, null, "入", null, null, "者"],
+        ["会", null, null, null, "校", null, null],
+        [null, "民", null, "報", null, null, null]
+    ]
+}
