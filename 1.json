@@ -1,0 +1,24 @@
+{
+    "kanjiGroups": {
+        "1": "生", "2": "産", "3": "地", "4": "主", "5": "保",
+        "6": "所", "7": "名", "8": "人", "9": "会", "10": "大", "11": "立"
+    },
+    "numberGrid": [
+        [1, 0, 5, 0, -1, 1, 3],
+        [2, -1, 0, -1, 7, 0, -1],
+        [-1, 0, 8, 4, 0, -1, 10],
+        [3, 6, -1, 8, -1, 11, 3],
+        [4, -1, 0, 0, 11, 10, -1],
+        [-1, 7, 2, -1, 9, -1, 9],
+        [5, 0, -1, 0, 8, 6, 0]
+    ],
+    "initialKanjiGrid": [
+        [null, "命", null, "険", null, null, null],
+        [null, null, "佐", null, null, "前", null],
+        [null, "個", null, null, "義", null, null],
+        [null, null, null, null, null, null, null],
+        [null, null, "国", "公", null, null, null],
+        [null, null, null, null, null, null, null],
+        [null, "証", null, "法", null, null, "得"]
+    ]
+}
