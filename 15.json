@@ -1,0 +1,35 @@
+{
+    "kanjiGroups": {
+        "1": "保",
+        "2": "理",
+        "3": "無",
+        "4": "生",
+        "5": "学",
+        "6": "分",
+        "7": "事",
+        "8": "会",
+        "9": "番",
+        "10": "大",
+        "11": "留"
+    },
+
+    "numberGrid": [
+        [10, 6, 10, 5, -1, 0, 9],
+        [-1, 0, -1, 8, 0, 5, -1],
+        [11, 5, 4, -1, 8, -1, 0],
+        [0, -1, 0, 3, -1, 4, 1],
+        [-1, 6, -1, 7, 10, -1, 2],
+        [3, 0, 1, -1, 0, 10, 7],
+        [2, -1, 11, 0, 9, -1, 8]
+    ],
+
+    "initialKanjiGrid": [
+        [null, null, null, null, null, "地", null],
+        [null, "類", null, null, "社", null, null],
+        [null, null, null, null, null, null, "安"],
+        ["年", null, "心", null, null, null, null],
+        [null, null, null, null, null, null, null],
+        [null, "担", null, null, "一", null, null],
+        [null, null, null, "守", null, null, null]
+    ]
+}
