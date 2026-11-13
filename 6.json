@@ -1,0 +1,36 @@
+{
+    "kanjiGroups": {
+        "1": "数",
+        "2": "中",
+        "3": "大",
+        "4": "公",
+        "5": "一",
+        "6": "学",
+        "7": "別",
+        "8": "人",
+        "9": "生",
+        "10": "倍",
+        "11": "芝",
+        "12": "休"
+    },
+
+    "numberGrid": [
+        [12, 6, -1, 11, 9, -1, 3],
+        [-1, 0, 1, -1, 7, 8, 0],
+        [0, -1, 0, 5, -1, 0, -1],
+        [8, 5, 10, -1, 2, 6, 9],
+        [1, 8, -1, 12, 0, -1, 0],
+        [-1, 11, 4, 0, -1, 10, -1],
+        [7, 0, -1, 2, 0, 3, 6]
+    ],
+
+    "initialKanjiGrid": [
+        [null, null, null, null, null, null, null],
+        [null, "部", null, null, null, null, "間"],
+        ["少", null, "十", null, null, "文", null],
+        [null, null, null, null, null, null, null],
+        [null, null, null, null, "日", null, "物"],
+        [null, null, null, "園", null, null, null],
+        [null, "居", null, null, "京", null, null]
+    ]
+}
