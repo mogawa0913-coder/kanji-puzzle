@@ -1,0 +1,34 @@
+{
+    "kanjiGroups": {
+        "1": "水",
+        "2": "生",
+        "3": "入",
+        "4": "国",
+        "5": "発",
+        "6": "学",
+        "7": "電",
+        "8": "手",
+        "9": "反",
+        "10": "力"
+    },
+
+    "numberGrid": [
+        [4, -1, 8, 10, -1, 7, 0],
+        [0, 2, 0, -1, 4, 0, 6],
+        [-1, 0, -1, 3, 0, -1, 0],
+        [1, 10, 5, 7, -1, 0, 6],
+        [0, -1, 0, -1, 9, 5, -1],
+        [2, 0, 9, 0, -1, 0, 3],
+        [0, -1, 0, -1, 0, 8, 1]
+    ],
+
+    "initialKanjiGrid": [
+        [null, null, null, null, null, null, "化"],
+        ["中", null, "代", null, null, "文", null],
+        [null, "産", null, null, "会", null, "工"],
+        [null, null, null, null, null, "先", null],
+        ["上", null, "色", null, null, null, null],
+        [null, "体", null, "応", null, "投", null],
+        ["活", null, "射", null, "初", null, null]
+    ]
+}
