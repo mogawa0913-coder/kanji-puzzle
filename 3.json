@@ -1,0 +1,33 @@
+{
+    "kanjiGroups": {
+        "1": "住",
+        "2": "地",
+        "3": "理",
+        "4": "出",
+        "5": "所",
+        "6": "定",
+        "7": "収",
+        "8": "用",
+        "9": "不",
+        "10": "日",
+        "11": "在"
+    },
+    "numberGrid": [
+        [1, 0, 2, 0, -1, 2, 3],
+        [0, -1, 0, -1, 4, 5, -1],
+        [-1, 0, 3, 4, 0, -1, 7],
+        [9, 8, -1, 0, -1, 10, 0],
+        [11, -1, 0, 2, 7, 8, -1],
+        [-1, 11, 10, -1, 0, -1, 4],
+        [6, 1, -1, 1, 5, 9, 6]
+    ],
+    "initialKanjiGrid": [
+        [null, "居", null, "域", null, null, null],
+        ["宅", null, "料", null, null, null, null],
+        [null, "代", null, null, "産", null, null],
+        [null, null, null, "生", null, null, "支"],
+        [null, null, "土", null, null, null, null],
+        [null, null, null, null, "容", null, null],
+        [null, null, null, null, null, null, null]
+    ]
+}
