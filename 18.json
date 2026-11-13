@@ -1,0 +1,37 @@
+{
+    "kanjiGroups": {
+        "1": "人",
+        "2": "期",
+        "3": "国",
+        "4": "学",
+        "5": "大",
+        "6": "間",
+        "7": "名",
+        "8": "長",
+        "9": "一",
+        "10": "業",
+        "11": "工",
+        "12": "地",
+        "13": "会"
+    },
+
+    "numberGrid": [
+        [3, -1, 9, -1, 0, 4, 2],
+        [0, 13, 2, 0, -1, 0, 6],
+        [5, -1, 0, -1, 12, 7, -1],
+        [4, 13, -1, 11, 4, -1, 9],
+        [-1, 0, 8, 10, -1, 1, 1],
+        [5, 7, -1, 12, 0, 11, 0],
+        [6, -1, 8, 0, -1, 0, 10]
+    ],
+
+    "initialKanjiGrid": [
+        [null, null, null, null, "新", null, null],
+        ["立", null, null, "限", null, "者", null],
+        [null, null, "分", null, null, null, null],
+        [null, null, null, null, null, null, null],
+        [null, "社", null, null, null, null, null],
+        [null, null, null, null, "下", null, "作"],
+        [null, null, null, "帯", null, "林", null]
+    ]
+}
