@@ -108,5 +108,10 @@
     "id": 22,
     "title": "第22問",
     "url": "https://raw.githubusercontent.com/mogawa0913-coder/kanji-puzzle/refs/heads/main/22.json"
+  },
+  {
+    "id": 23,
+    "title": "第23問",
+    "url": "https://raw.githubusercontent.com/mogawa0913-coder/kanji-puzzle/refs/heads/main/23.json"
   }
 ]
